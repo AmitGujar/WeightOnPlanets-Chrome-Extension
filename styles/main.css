@@ -1,0 +1,81 @@
+.bg {
+    /* The background image used */
+    background-image: url("957439.jpg");
+    height: 100%; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+.fonts {
+    font-family: 'Duru Sans';font-size: 22px;
+}
+
+.col {
+	color:black;
+}
+ 
+  
+.card {
+  width: 350px;
+  height: 35px;
+  background-color: #fff;
+  background: linear-gradient(#eb47e3,rgb(223, 204, 223));
+  box-shadow: 0 8px 16px -8px rgba(109, 68, 68, 0.4);
+  border-radius: 6px;
+  overflow: hidden;
+  position: relative;
+  margin: 1.5rem;
+}
+
+.mer {
+  width: 350px;
+  height: 35px;
+  background-color: #fff;
+  background: linear-gradient(#6ef713,rgb(223, 204, 223));
+  box-shadow: 0 8px 16px -8px rgba(109, 68, 68, 0.4);
+  border-radius: 6px;
+  overflow: hidden;
+  position: relative;
+  margin: 1.5rem;
+}
+.button {
+    border-radius: 4px;
+    background-color: #b6211b;
+    border: none;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 28px;
+    padding: 5px;
+    width: 157px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 5px;
+  }
+  
+.button span {
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    transition: 0.5s;
+  }
+  
+.button span:after {
+    content: '\00bb';
+    position: absolute;
+    opacity: 0;
+    top: 0;
+    right: -20px;
+    transition: 0.5s;
+  }
+  
+.button:hover span {
+    padding-right: 25px;
+  }
+  
+.button:hover span:after {
+    opacity: 1;
+    right: 0;
+  }
+}
+

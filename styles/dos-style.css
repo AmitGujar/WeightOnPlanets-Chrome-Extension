@@ -1,0 +1,27 @@
+.round-img {
+    border-radius: 50%;
+    display: inline-block;
+    height: 400px;
+    width: 400px;
+}
+
+
+
+.home-page {
+    background-repeat: none;
+    align-items: center;
+    text-align: center;
+    margin: auto;
+    padding-top: 5%;
+    padding-bottom: 20%;
+}
+
+.about-page {
+    align-items: center;
+    text-align: center;
+    margin: auto;
+    padding-top: 5%;
+    padding-bottom: 20%;
+    margin: auto;
+    opacity: 1;
+}

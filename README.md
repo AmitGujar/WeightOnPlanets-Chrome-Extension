@@ -1,2 +1,6 @@
-# WeightOnPlanets-Chrome-Extension
- Have you ever wonder about your weight on different planets in our solar system, don't  worry now you can find out yourself in your browser with the help of this extension.
+# Weight On Planets (Chrome Extension)
+### As name explains weight on planets is a new tab extension which helpful to you in finding your weight in different planets in our solar system.
+# Screenshot
+<img src="screenshot.png"
+     alt="extension screenshot"
+     style="float: left; margin-right: 10px;"/>
